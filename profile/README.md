@@ -15,8 +15,8 @@ Participants will then report their results and a detailed description of the an
 * `Position_paper`: Summary figures of demographics and representiveness of the analysts participating in the EEGManyPipelines project. Used in the poistion paper (Trübutschek et al., 2022).
 
 ## Publications
+* Trübutschek, D., Yang, Y.-F., Gianelli, C., Cesnaite, E., Fischer, N. L., Vinding, M. C., Marshall, T. R., Algermissen, J., Pascarella, A., Puoliväli, T., Vitale, A., Busch, N. A., & Nilsonne, G. (2023). EEGManyPipelines: A Large-scale, Grassroot Multi-analyst Study of EEG Analysis Practices in the Wild. *Journal of Cognitive Neuroscience, 36*, 217–224. https://doi.org/10.1162/jocn_a_02087
 * Algermissen, J., Busch, N., Cesnaite, E., Fischer, N., Gianelli, C., Koen, J., Marshall, T., Navid, M. S., Nilsonne, G., Pascarella, A., Puoliväli, T., Senoussi, M., Trubutschek, D., Vinding, M. C., Vitale, A., Yang, Y.-F., & Yeaton, J. (2022). *EEGManyPipelines: Robustness of EEG results across analysis pipelines.* Open Science Framework. https://doi.org/10.17605/OSF.IO/42K5H
-* Trübutschek, D., Yang, Y.-F., Gianelli, C., Cesnaite, E., Fischer, N. L., Vinding, M. C., Marshall, T., Algermissen, J., Pascarella, A., Puoliväli, T., Vitale,  A., Busch, N., & Nilsonne, G. (2022). *EEGManyPipelines: A large-scale, grass-root multi-analyst study of EEG analysis practices in the wild* [Preprint]. MetaArXiv. https://doi.org/10.31222/osf.io/jq342
 
 ## Contact
 

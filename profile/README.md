@@ -20,7 +20,7 @@ Participants will then report their results and a detailed description of the an
 
 ## Contact
 
-For more information about the steering comittee and people involved in the project, please visit our offical website: https://eegmanypipelines.org
+For more information about the steering comittee and people involved in the project, please visit our offical website: http://eegmanypipelines.org
 
 For questions or comments, please write email to committee@eegmanypipelines.org.
 

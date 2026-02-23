@@ -29,7 +29,7 @@ Follow EEGManyPipelines on Twitter [@EegManyPipes](https://twitter.com/EegManyPi
 
 
 ## Funding
-The project is supported by research grants from the German Research Foundation (DFG) and the DFG priority program ["META-REP: A Meta-scientific Programme to Analyse and Optimise Replicability in the Behavioural, Social, and Cognitive Sciences"](https://www.psy.lmu.de/soz/meta-rep/index.html) to Niko Busch and a research grant from [Riksbankens Jubileumsfond](https://www.rj.se/en/grants/2021/eegmanypipelines---effekter-av-analytisk-variabilitet-pa-resultat-i-eeg-forskning/) to Gustav Nilsonne.
+The project is supported by research grants from the German Research Foundation (DFG) and the DFG priority program ["META-REP: A Meta-scientific Programme to Analyse and Optimise Replicability in the Behavioural, Social, and Cognitive Sciences"](https://www.psy.lmu.de/soz/meta-rep/index.html) to Niko Busch and a research grant from [Riksbankens Jubileumsfond](https://www.rj.se/en/grants/2021/eegmanypipelines---effekter-av-analytisk-variabilitet-pa-resultat-i-eeg-forskning/) to Gustav Nilsonne, Niko Busch, and Mikkel C. Vinding.
 
 
 [^1]: Botvinik-Nezer R, Holzmeister F, ..., Schonerg T (2020). [Variability in the analysis of a single neuroimaging dataset by many teams.](https://www.nature.com/articles/s41586-020-2314-9) *Nature 582*:84–88.
